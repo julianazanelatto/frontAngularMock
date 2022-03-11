@@ -1,4 +1,4 @@
-# Teste
+# Front com angular (dados mokados) Philips dev week
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
